@@ -8,7 +8,7 @@ import jakarta.persistence.Table;
 @Entity
 @Table(name ="Student_db" )
 public class Student {
-	
+	 // encapuslation
 	@Id
 	@GeneratedValue
 	@Column
